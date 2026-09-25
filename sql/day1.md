@@ -1,4 +1,4 @@
-##Find the 3 highest-paid employees
+##Find the 3 highest-paid employees##
 SELECT * 
 FROM Employee 
 ORDER BY salary DESC 
